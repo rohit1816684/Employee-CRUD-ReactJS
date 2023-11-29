@@ -1,0 +1,46 @@
+{
+  "empDetails": [
+    {
+      "name": "Ankit",
+      "salary": "25000",
+      "company": "LT",
+      "id": 2
+    },
+    {
+      "name": "Guru",
+      "salary": "30000",
+      "company": "Testyantra",
+      "id": 3
+    },
+    {
+      "name": "Abhishek",
+      "salary": "14000",
+      "company": "ABC",
+      "id": 4
+    },
+    {
+      "name": "Rohit Raj",
+      "salary": "50000",
+      "company": "wipro",
+      "id": 5
+    },
+    {
+      "name": "ABC",
+      "salary": "478512",
+      "company": "XYZ",
+      "id": 6
+    },
+    {
+      "name": "PQR",
+      "salary": "45782",
+      "company": "SDVS",
+      "id": 7
+    },
+    {
+      "name": "MNOP",
+      "salary": "7854",
+      "company": "ABC",
+      "id": 8
+    }
+  ]
+}
